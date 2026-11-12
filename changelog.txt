@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+  Changes:
+    - Update prototypes and APIs for Factorio 2.1 while preserving existing content and settings.
+    - Adopt the original mod identity through native ownership migration.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.1
   Changes:
     - Added adjustable HP setting

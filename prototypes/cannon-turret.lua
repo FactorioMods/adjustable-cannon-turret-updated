@@ -1,7 +1,7 @@
 function cannon_turret_sheet(inputs)
     return {
         layers = {{
-            filename = "__adjustable_cannon_turret__/graphics/entity/cannon-turret/cannon-turret-sheet.png",
+            filename = "__adjustable-cannon-turret-updated__/graphics/entity/cannon-turret/cannon-turret-sheet.png",
             priority = "medium",
             scale = 0.75,
             width = 128,
@@ -20,7 +20,7 @@ local sounds = require("__base__/prototypes/entity/sounds")
 data:extend({{
     type = "item",
     name = "cannon-turret",
-    icon = "__adjustable_cannon_turret__/graphics/icons/cannon-turret-icon.png",
+    icon = "__adjustable-cannon-turret-updated__/graphics/icons/cannon-turret-icon.png",
     icon_size = 64,
     subgroup = "defensive-structure",
     order = "b[turret]-a[gun-turret]",
@@ -33,7 +33,7 @@ data:extend({{
     name = "cannon-turret",
     icon_size = 128,
     icon_mipmaps = 4,
-    icon = "__adjustable_cannon_turret__/graphics/icons/cannon-turret-tech.png",
+    icon = "__adjustable-cannon-turret-updated__/graphics/icons/cannon-turret-tech.png",
     effects = {{
         type = "unlock-recipe",
         recipe = "cannon-turret"
@@ -51,7 +51,7 @@ data:extend({{
 data:extend({{
     type = "recipe",
     name = "cannon-turret",
-    icon = "__adjustable_cannon_turret__/graphics/icons/cannon-turret-icon.png",
+    icon = "__adjustable-cannon-turret-updated__/graphics/icons/cannon-turret-icon.png",
     icon_size = 64,
     subgroup = "defensive-structure",
     order = "b[turret]-a[gun-turret]",
@@ -85,7 +85,7 @@ data:extend({{
 data:extend({{
     type = "ammo-turret",
     name = "cannon-turret",
-    icon = "__adjustable_cannon_turret__/graphics/icons/cannon-turret-icon.png",
+    icon = "__adjustable-cannon-turret-updated__/graphics/icons/cannon-turret-icon.png",
     icon_size = 32,
     flags = {"placeable-player", "player-creation"},
     minable = {

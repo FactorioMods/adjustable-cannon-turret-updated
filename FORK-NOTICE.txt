@@ -1,0 +1,2 @@
+Factorio 2.1 compatibility update of adjustable_cannon_turret. Original authors and licensing remain applicable. Original upstream history: authentic-release-import; no fabricated upstream Git ancestry.
+No original entity, item, recipe, technology, setting or remote interface IDs are renamed.
