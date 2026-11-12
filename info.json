@@ -1,0 +1,11 @@
+{
+	"name": "adjustable_cannon_turret",
+	"author": "Reckless",	
+	"version": "1.0.1",
+	"title": "Adjustable Cannon Turret",
+	"contact": "",
+	"homepage": "",
+    "factorio_version": "2.0",
+	"dependencies": ["base >= 2.0.0", "?combat-mechanics-overhaul", "!cannon_turrets_touhma"],
+	"description": "Adds a cannon turret that uses cannon shells. I have added settings for attack speed, range, damage, minimum range, HP, directional fire, or 360 so you can adjust them to your liking. Thanks to Touhma for updating this old mod and inspiring me to make my own flavor of it."
+}
